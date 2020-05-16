@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sachit.xiewangduo@pku.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:xiewangduo@pku.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 # icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -65,8 +65,8 @@ user_groups:
 - Visitors
 ---
 
-I'm currently studying computer vision at Peking University. Through my research,I hope to restore the image in the real scene. This makes me interested in blind restoration, generative modeling, and neural network designing  inspired by the optimization algorithm.
+I'm currently studying computer vision at Peking University. Through my research, I hope to restore the image in the real scene. This makes me interested in blind restoration, generative modeling, and neural network designing  inspired by the optimization algorithm.
 
-I have studied multi-view geometry, and I used it in my recent research work. Because I am particularly interested in the process of discovering phenomena, then looking for mathematical descriptions, and finally changing phenomena. So I try to achieve process control by visualizing neural networks and designing optimization algorithms step by step.
+I have studied multi-view geometry, and I used it in my recent research work. Because I am particularly interested in the process of discovering phenomena, then looking for mathematical descriptions, and finally changing phenomena. So I try to achieve process control by visualizing neural networks and designing optimization algorithm step by step.
 
 Feel free to reach out!
